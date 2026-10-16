@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liconnect-1.github.io/liconnect-website/sitemap.xml
